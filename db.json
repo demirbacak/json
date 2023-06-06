@@ -1,0 +1,46 @@
+[
+    {
+        "writer": "Dostoyevski",
+        "book": "Crime and Punishment"
+    },
+    {
+        "writer": "Tolstoy",
+        "book": "War and Peace"
+    },
+    {
+        "writer": "Tolkien",
+        "book": "Lord of the Rings"
+    },
+    {
+        "writer": "J. K. Roling ",
+        "book": "Harry Potter"
+    },
+    {
+        "writer": "Jonh Steinback",
+        "book": "Of Mice and Men"
+    },
+    {
+        "writer": "Jane Austen",
+        "book": "Pride and Prejudice"
+    },
+    {
+        "writer": "Herman Melville",
+        "book": ""
+    },
+    {
+        "writer": "Shakespeare",
+        "book": "Romeo and Juliet"
+    },
+    {
+        "writer": "Stefan Zweig",
+        "book": "Chess"
+    },
+    {
+        "writer": "Charles Dickens",
+        "book": "Olier Twist"
+    },
+    {
+        "writer": "Franz Kafka",
+        "book": "The Metamorphosis"
+    }
+]
