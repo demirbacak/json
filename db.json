@@ -19,8 +19,30 @@
     {
         "writer": "Jonh Steinback",
         "book": "Of Mice and Men"
+    },
+    {
+        "writer": "Jane Austen",
+        "book": "Pride and Prejudice"
+    },
+    {
+        "writer": "Herman Melville",
+        "book": ""
+    },
+    {
+        "writer": "Shakespeare",
+        "book": "Romeo and Juliet"
+    },
+    {
+        "writer": "Stefan Zweig",
+        "book": "Chess"
+    },
+    {
+        "writer": "Charles Dickens",
+        "book": "Olier Twist"
+    },
+    {
+        "writer": "Franz Kafka",
+        "book": "The Metamorphosis"
     }
-  
-   
 ]
 }
