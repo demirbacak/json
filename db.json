@@ -1,4 +1,4 @@
-{
+
   "writerandbook": [
     {
         "writer": "Dostoyevski",
@@ -44,5 +44,5 @@
         "writer": "Franz Kafka",
         "book": "The Metamorphosis"
     }
-]
+],
 }
